@@ -19,7 +19,7 @@ Sou estudante do Técnico em Desenvolvimento de Sistemas (TDS) no Senac Tech. Mi
 
 ## 🛠️ Stack & Ferramentas
 
-### 🚀 Domino no dia a dia
+### 🚀 Usos no dia a dia
 
 <div align="left">
 
